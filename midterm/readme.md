@@ -2,4 +2,4 @@
 
 ### Live Link
 
-[Home](https://{username}.github.io/{reponame}/midterm)
+[Home](https://github.com/adbisesi/sp25info210-main/tree/main/midterm)
