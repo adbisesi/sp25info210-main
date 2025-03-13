@@ -2,4 +2,4 @@
 
 ### Live Link
 
-[Midterm](https://github.com/adbisesi/sp25info210-main/midterm)
+[Midterm](https://adbisesi.github.io/sp25info210-main/midterm)
